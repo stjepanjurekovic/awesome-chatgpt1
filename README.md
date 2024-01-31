@@ -218,6 +218,7 @@
 ## Books
 
 - [Learn AI-Assisted Python Programming](https://www.manning.com/books/learn-ai-assisted-python-programming) - A book that teaches how to create and improve Python programs using AI.
+- [Transformers in Action](https://www.manning.com/books/transformers-in-action) - A book that gives you the insights, practical techniques, and extensive code samples you need to adapt pretrained transformer models to new and exciting tasks.
 
 ## Vector Database
 
